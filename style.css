@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    
+
+}
+
+h1 { 
+    font-family: 'Raleway', sans-serif;
+}
+.container1 {
+ width: 1440px;
+ background-color: white;
+ height: 100px;
+ display: flex;
+ padding-top: 50px;
+}
+
+.imagen1{ 
+
+    padding-right: 900px;
+    padding-left: 60px ;
+}
+
+.imagen2{
+    width:600px;
+    height:450px;
+}
+
+.imagen3{ 
+    
+    width:600px;
+    height:450px; 
+}
+#descripcion {
+    padding-right: 30px;
+    padding-top: 7px ;
+}
+
+.container2{
+   width: 1440px;
+   display:flex;
+
+}
+
+
+.security{
+
+ width: 720px;
+ height: 600px;
+ padding-top: 100px;
+ text-align: left;
+ padding-left: 60px;
+ padding-bottom: 50px;
+
+}
+.boton1{
+
+    font-family: 'Open Sans', sans-serif;
+    border-color:hsl(224, 93%, 58%);
+    border-radius: 5px;
+    background-color:hsl(224, 93%, 58%);
+    color:white;
+    border-style:groove;
+    padding:8px;
+    width:160px;
+ 
+}
+
+.boton2 {
+
+    font-family: 'Open Sans', sans-serif;
+    border-color:hsl(224, 93%, 58%);
+    border-radius: 5px;
+    background-color:hsl(224, 93%, 58%);
+    color:white;
+    border-style:groove;
+    padding:8px;
+    width:160px;
+ 
+}
+
+
+.enter1{
+
+    height:30px;
+    width:280px;
+    border-radius:2px ;
+}
+
+.enter2{
+
+    height:30px;
+    width:350px;
+    border-radius:2px ;
+}
+.logo1{
+
+ width: 720px;
+ height: 600px;
+ padding-top:80px;
+
+}
+
+.container3{
+    width: 1440px;
+    display:flex;
+    background-color: hsla(0, 14%, 93%, 0.959);
+    height: 600px;
+    border-top-left-radius: 30%;
+    border-bottom-right-radius: 0% ;
+    
+    padding-top: 200px;
+    
+
+ 
+}
+
+
+
+.productive{
+
+    width: 720px;
+    height: 300px;
+    text-align: left;
+    padding-left: 60px;
+    
+   
+}
+
+.testimonial{
+
+    width: 360px;
+    background-color:white;
+    height: 300px;
+    text-align: left;
+    padding-left: 60px;
+    border-radius: 10%;
+    border-style: groove;
+
+}
+
+.especial{
+    width: 720px;
+    height: 600px;
+    float: none;
+}
+   
+.logo2{
+   
+    width: 720px;
+    height: 600px;
+    
+
+}
+
+.container4{
+    width: 1440px;
+    display:flex;
+ 
+}
+
+.access{
+
+    width: 720px;
+    background-color: hsl(238, 22%, 44%);
+    height: 350px;
+    text-align: left;
+    padding-left: 60px;
+    padding-top: 80px;
+    color:white;
+    padding-bottom: 20px;
+   
+}
+   
+.email{
+   
+    width: 720px;
+    background-color: hsl(238, 22%, 44%);
+    height: 350px;
+    text-align: left;
+    padding-top: 100px;
+
+
+}
+
+.container5{
+    width: 1440px;
+    display:flex;
+ 
+}
+
+.logo3{
+
+    width: 720px;
+    background-color:hsl(243, 87%, 12%);
+    height: 250px;
+    color:white;
+    padding-top: 30px;
+    
+   
+}
+   
+.info{
+   
+    width: 720px;
+    background-color:hsl(243, 87%, 12%);
+    height: 250px;
+    color:white;
+    padding-top: 30px;
+
+}
+
+
+.contact{
+
+    width: 720px;
+    background-color:hsl(243, 87%, 12%);
+    height: 250px;
+    color:white;
+    padding-top: 30px;
+   
+}
+   
+.redes{
+   
+    width: 720px;
+    background-color:hsl(243, 87%, 12%);
+    height: 250px;
+    color:white;
+    padding-top: 30px;
+
+}
+
+.avatar{
+    
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+#nombre {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
